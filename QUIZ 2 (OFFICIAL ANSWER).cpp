@@ -75,4 +75,4 @@ int main(){
 
 }
 //Linked List: 6 3 9 4 2
-//After deleting an element: 6 3 4 3
+//After deleting an element: 6 3 9 3
