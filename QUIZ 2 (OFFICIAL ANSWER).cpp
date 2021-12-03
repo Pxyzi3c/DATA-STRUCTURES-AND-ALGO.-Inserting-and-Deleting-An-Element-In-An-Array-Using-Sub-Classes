@@ -52,7 +52,7 @@ void deletePosition(int &n, int (&arr)[10], int pos){
         }
         n -=1;
     }
-}//6 3 4
+}
 
 void printList(int (&arr)[10],int &n){
     for(int i = 0; i<n; i++){
